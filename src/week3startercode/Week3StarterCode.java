@@ -19,6 +19,8 @@ public class Week3StarterCode {
         s1.setFirstName("John");
         s1.setID(4);
         
+        // Manpreet was here....
+        
         System.out.println(s1.getFirstName() + " "+s1.getID());
         System.out.println("See you again!");
     }
